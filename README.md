@@ -1,4 +1,6 @@
-![corporate rock stars, I guess](corporate-rock-stars.png){ width="400" style="display: block; margin: 0 auto" }
+<div style="text-align: center;">
+    <img width="100%" src="corporate-rock-stars.png">
+</div>
 
 # corporaterockstars.com - NOT for team building events in Austin, Texas
 Hello, and welcome to Corporate Rock Stars (dot com!), a website totally not at all related to team building events in Austin TX, and totally not related to a company called Groove Labs or a guy named Craig Nadel.
