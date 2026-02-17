@@ -16,6 +16,8 @@ He claimed I was hurting his brand, that he owned the trademark and I didn't hav
 # That's awfully petty, don't you think?
 I suppose perhaps it is, but in the 20 years now since I first registered the domain, every time it comes up for renewal I just think to myself "that jerk is going to snatch this domain up, and he not only threatened to litigate when he had no right to, but also threatened to mess with my employment. It's 2026 now, this guy was WAY ahead of cancel culture!
 
+I am generally (I swear!) not at all a petty person. My friends would describe me as kind, generous, and incredibly empathetic. I just really, really have a problem with unnecessary bullying and I will not let it go. People should assume best intent and be kind to each other, and this guy was anything but.
+
 # I was looking for team building events, not this ridiculousness!
 
 Well, he's got the .net domain that I'm not going to link to. I googled around a bit though, and it seems like people like a few other companies! 
