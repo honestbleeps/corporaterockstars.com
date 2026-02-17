@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-    <img width="100%" src="corporate-rock-stars.png">
+    <img width="400px" src="corporate-rock-stars.png">
 </div>
 
 # corporaterockstars.com - NOT for team building events in Austin, Texas
