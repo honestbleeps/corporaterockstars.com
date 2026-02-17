@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div style="float: left; margin: 10px;">
     <img width="400px" src="corporate-rock-stars.png">
 </div>
 
