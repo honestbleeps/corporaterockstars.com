@@ -12,7 +12,7 @@ He claimed I was hurting his brand, that he owned the trademark and I didn't hav
 # That's awfully petty, don't you think?
 I suppose perhaps it is, but in the 20 years now since I first registered the domain, every time it comes up for renewal I just think to myself "that jerk is going to snatch this domain up, and he not only threatened to litigate when he had no right to, but also threatened to mess with my employment. It's 2026 now, this guy was WAY ahead of cancel culture!
 
-If you find this level of pettiness amusing enough to support "sticking it to the man", some folks suggested I share my venmo! Here it is, [@honestbleeps](https://account.venmo.com/u/honestbleeps)
+If you find this level of pettiness amusing enough to support "sticking it to the man", some folks suggested I share my venmo! Here it is, [@honestbleeps](https://account.venmo.com/u/honestbleeps). If you prefer to do something positive, you can donate to [Cradles to Crayons](https://www.cradlestocrayons.org/chicago/donate-now/) and help children just like I wanted to when I first made the site back in 2005. It was for a different charity then, but this is a great one in my hometown of Chicago.
 
 
 # I was looking for team building events, not this ridiculousness!
