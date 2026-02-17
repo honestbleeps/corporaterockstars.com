@@ -1,4 +1,4 @@
-<div style="float: left; margin: 10px;">
+<div style="float: left; margin: 0px 10px 10px 0px;">
     <img width="400px" src="corporate-rock-stars.png">
 </div>
 
